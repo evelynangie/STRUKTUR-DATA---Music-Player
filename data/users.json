@@ -1,0 +1,16 @@
+﻿[
+  {
+    "username": "cindy",
+    "password": "cindy1",
+    "is_admin": false,
+    "playlist": [],
+    "profile_image": ""
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "is_admin": true,
+    "playlist": [],
+    "profile_image": ""
+  }
+]

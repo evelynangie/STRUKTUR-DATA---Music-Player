@@ -1,0 +1,142 @@
+[
+  {
+    "song_id": "F1",
+    "title": "Exile ft. Bon Iver",
+    "artist": "Taylor Swift",
+    "genre": "Folk",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Taylor Swift - exile feat Bon Iver (folk).mp3"
+  },
+  {
+    "song_id": "P14",
+    "title": "Daylight",
+    "artist": "Taylor Swift",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Taylor Swift - Daylight (pop).mp3"
+  },
+  {
+    "song_id": "R2",
+    "title": "Tarot",
+    "artist": "Feast",
+    "genre": "Rock",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Tarot - Feast (rock).mp3"
+  },
+  {
+    "song_id": "P13",
+    "title": "Manchild ",
+    "artist": "Sabrina Carpenter ",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Sabrina Carpenter - manchild (pop).mp3"
+  },
+  {
+    "song_id": "P12",
+    "title": "Espresso ",
+    "artist": "Sabrina Carpenter - ",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Sabrina Carpenter - espresso (pop).mp3"
+  },
+  {
+    "song_id": "P11",
+    "title": "Television ",
+    "artist": "Rex Orange County",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Rex Orange County - Television (pop).mp3"
+  },
+  {
+    "song_id": "P10",
+    "title": "Best Friend",
+    "artist": "Rex Orange County",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Rex Orange County - Best Friend (pop).mp3"
+  },
+  {
+    "song_id": "P9",
+    "title": "you & i",
+    "artist": "One Direction",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/One Direction - you & i (pop).mp3"
+  },
+  {
+    "song_id": "P8",
+    "title": "18",
+    "artist": "One Direction",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/One Direction - 18 (pop).mp3"
+  },
+  {
+    "song_id": "R2",
+    "title": "lowkey",
+    "artist": "NIKI ",
+    "genre": "R&B",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/NIKI - lowkey (R&B).mp3"
+  },
+  {
+    "song_id": "R1",
+    "title": "La La Lost You ",
+    "artist": "NIKI",
+    "genre": "R&B",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/NIKI - La La Lost You (R&B).mp3"
+  },
+  {
+    "song_id": "P7",
+    "title": "you!",
+    "artist": "LANY",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/LANY - you! (pop).mp3"
+  },
+  {
+    "song_id": "R1",
+    "title": "XXL",
+    "artist": "LANY",
+    "genre": "Rock",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/LANY - XXL (rock).mp3"
+  },
+  {
+    "song_id": "P6",
+    "title": "Lantas",
+    "artist": "Juicy Luicy",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Juicy Luicy - Lantas (pop).mp3"
+  },
+  {
+    "song_id": "P5",
+    "title": "everything u are ",
+    "artist": "Hindia",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Hindia - everything u are (pop).mp3"
+  },
+  {
+    "song_id": "A2",
+    "title": "Attention",
+    "artist": "Charlie Puth",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Charlie Puth - Attention (pop).mp3"
+  },
+  {
+    "song_id": "P1",
+    "title": "We Dont Talk Anymore",
+    "artist": "Charlie Puth",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Charlie Puth - We Dont Talk Anymore (pop).mp3"
+  },
+  {
+    "song_id": "P2",
+    "title": "Photograph",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Ed Sheeran - Photograph (pop).mp3"
+  },
+  {
+    "song_id": "P3",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Ed Sheeran - Thinking Out Loud (pop).mp3"
+  },
+  {
+    "song_id": "P4",
+    "title": "Kasih Putih",
+    "artist": "Glenn Fredly",
+    "genre": "Pop",
+    "file_path": "C:/Users/evely/OneDrive/Desktop/Kuliah/Semester 3/Struktur Data/SAATNYA REVISI - Copy/SPOTIPAI_Desktop/assets/music/Glenn Fredly - Kasih Putih (pop).mp3"
+  }
+]
