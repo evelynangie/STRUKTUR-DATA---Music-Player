@@ -6,18 +6,18 @@ SPOTIPAI Desktop adalah aplikasi media player desktop yang dibangun dengan PyQt6
 
 ## Fitur Utama
 
-### Admin Features
+### Fitur Admin
 - 🎵 Kelola Library Lagu (Tambah, Edit, Hapus)
 - 📊 Dashboard dengan tampilan daftar lagu lengkap
 - 🔐 Login dengan akun admin
 
-### User Features
+### Fitur User
 - 🎵 Browse dan putar musik dari library
 - 📋 Buat dan kelola playlist pribadi
 - ▶️ Kontrol playback (Play, Pause, Stop, Next, Prev, Loop)
 - 🔐 Akun user dengan password
 
-## Li
+## Tools
 
 - **Python 3.10**
 - **PyQt6** - GUI Framework
